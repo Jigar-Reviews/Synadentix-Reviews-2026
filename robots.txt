@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jigar-reviews.github.io/Synadentix-Reviews-2026/sitemap.xml
